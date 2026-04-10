@@ -1,0 +1,25 @@
+{
+  "base_position_usd": 25.0,
+
+  "donchian_period": 20,
+  "rsi_period": 14,
+  "vol_period": 20,
+  "rsi_max_long": 65.0,
+
+  "vol_min_pct": 0.10,
+  "vol_max_pct": 4.0,
+
+  "take_profit_pct": 1.8,
+  "hard_sl_pct": 0.9,
+  "trail_start_pct": 1.2,
+  "trail_step_pct": 0.4,
+
+  "max_open_positions": 2,
+
+  "mc_min_conf": 0.55,
+  "mc_paths": 800,
+  "mc_horizon_sec": 60,
+
+  "hud_interval_sec": 30.0
+}
+
